@@ -1,6 +1,13 @@
 gauges-clj
 ==========
 
+Install
+-------
+
+Available from Clojars:
+
+    [gauges-clj "0.1.0"]
+
 Usage
 -----
 
