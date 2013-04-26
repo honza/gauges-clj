@@ -8,7 +8,9 @@ Install
 
 Available from Clojars:
 
-    [gauges-clj "0.1.0"]
+``` clojure
+[gauges-clj "0.1.0"]
+```
 
 Usage
 -----
